@@ -1,0 +1,362 @@
+.body { 
+	background-color:rgba(247.00000047683716, 220.00000208616257, 236.00000113248825, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.info { 
+	background-color:rgba(171.00000500679016, 152.0000061392784, 163.00000548362732, 1);
+	width:365px;
+	height:1024px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.languages { 
+	background-color:rgba(145.00000655651093, 129.00000751018524, 138.00000697374344, 1);
+	width:365px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:914px;
+}
+.langH {
+	width: 243px;
+	height: 30px;
+	position: absolute;
+	left: 122px;
+	top: 12px;
+}
+.lang { 
+	color:rgba(0, 0, 0, 1);
+	width:53px;
+	height:30px;
+	position:absolute;
+	left:178px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:22px;
+	letter-spacing:0;
+}
+.langText { 
+	color:rgba(0, 0, 0, 1);
+	width:341px;
+	height:51px;
+	position:absolute;
+	left:12px;
+	top:54px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.education { 
+	background-color:rgba(145.00000655651093, 129.00000751018524, 138.00000697374344, 1);
+	width:365px;
+	height:167px;
+	position:absolute;
+	left:0px;
+	top:737px;
+}
+.edH { 
+	width:243px;
+	height:30px;
+	position:absolute;
+	left:122px;
+	top:12px;
+}
+.ed { 
+	color:rgba(0, 0, 0, 1);
+	width:62px;
+	height:30px;
+	position:absolute;
+	left:169px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:22px;
+	letter-spacing:0;
+}
+.edText { 
+	color:rgba(0, 0, 0, 1);
+	width:341px;
+	height:95px;
+	position:absolute;
+	left:12px;
+	top:54px;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.skills { 
+	background-color:rgba(145.00000655651093, 129.00000751018524, 138.00000697374344, 1);
+	width:365px;
+	height:221px;
+	position:absolute;
+	left:0px;
+	top:506px;
+}
+.skH { 
+	width:243px;
+	height:30px;
+	position:absolute;
+	left:122px;
+	top:12px;
+}
+.sk { 
+	color:rgba(0, 0, 0, 1);
+	width:86px;
+	height:30px;
+	position:absolute;
+	left:145px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:22px;
+	letter-spacing:0;
+}
+.skText { 
+	color:rgba(0, 0, 0, 1);
+	width:341px;
+	height:129px;
+	position:absolute;
+	left:12px;
+	top:54px;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.contacts { 
+	background-color:rgba(145.00000655651093, 129.00000751018524, 138.00000697374344, 1);
+	width:365px;
+	height:131px;
+	position:absolute;
+	left:0px;
+	top:365px;
+}
+.contH { 
+	width:243px;
+	height:30px;
+	position:absolute;
+	left:122px;
+	top:12px;
+}
+.cont { 
+	color:rgba(0, 0, 0, 1);
+	width:144px;
+	height:30px;
+	position:absolute;
+	left:87px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:22px;
+	letter-spacing:0;
+}
+.contText { 
+	width:341px;
+	height:65px;
+	position:absolute;
+	left:12px;
+	top:54px;
+}
+.numT { 
+	color:rgba(0, 0, 0, 1);
+	width:133px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.numV { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:30px;
+	position:absolute;
+	left:145px;
+	top:0px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:18px;
+	letter-spacing:0;
+}
+.mailT { 
+	color:rgba(0, 0, 0, 1);
+	width:55px;
+	height:24px;
+	position:absolute;
+	left:0px;
+	top:35px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.mailV { 
+	color:rgba(0, 0, 0, 1);
+	width:274px;
+	height:30px;
+	position:absolute;
+	left:67px;
+	top:35px;
+	font-family:Alegreya;
+	text-align:right;
+	font-size:18px;
+	letter-spacing:0;
+}
+.photo { 
+	width:305px;
+	height:305px;
+	position:absolute;
+	left:30px;
+	top:30px;
+	border-top-left-radius:60px;
+	border-top-right-radius:60px;
+	border-bottom-left-radius:60px;
+	border-bottom-right-radius:60px;
+	background-image:url(images/____.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.achievment { 
+	background-color:rgba(235.0000011920929, 209.00000274181366, 223.00000190734863, 1);
+	width:1055px;
+	height:200px;
+	position:absolute;
+	left:375px;
+	top:814px;
+}
+.achH { 
+	color:rgba(0, 0, 0, 1);
+	width:157px;
+	height:41px;
+	position:absolute;
+	left:459px;
+	top:12px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.ach { 
+	color:rgba(0, 0, 0, 1);
+	width:1045px;
+	height:102px;
+	position:absolute;
+	left:10px;
+	top:54px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+.courses { 
+	background-color:rgba(247.00000047683716, 220.00000208616257, 236.00000113248825, 1);
+	width:1055px;
+	height:280px;
+	position:absolute;
+	left:375px;
+	top:534px;
+}
+.coursesH { 
+	color:rgba(0, 0, 0, 1);
+	width:80px;
+	height:41px;
+	position:absolute;
+	left:495px;
+	top:12px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.coursesList {
+	color: rgba(0, 0, 0, 1);
+	width: 1045px;
+	height: 204px;
+	position: absolute;
+	left: 10px;
+	top: 61px;
+	text-align: left;
+	font-size: 25px;
+	letter-spacing: 0;
+}
+.experience {
+	background-color: rgba(235.0000011920929, 209.00000274181366, 223.00000190734863, 1);
+	width: 1055px;
+	height: 270px;
+	position: absolute;
+	left: 375px;
+	top: 264px;
+}
+.expH { 
+	color:rgba(0, 0, 0, 1);
+	width:185px;
+	height:41px;
+	position:absolute;
+	left:445px;
+	top:12px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.expText { 
+	color:rgba(0, 0, 0, 1);
+	width:1045px;
+	height:175px;
+	position:absolute;
+	left:10px;
+	top:73px;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.generalInfo {
+	width: 1055px;
+	height: 264px;
+	position: absolute;
+	left: 375px;
+	top: 0px;
+}
+.prof { 
+	color:rgba(0, 0, 0, 1);
+	width:180px;
+	height:27px;
+	position:absolute;
+	left:45px;
+	top:30px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.name { 
+	color:rgba(0, 0, 0, 1);
+	width:280px;
+	height:54px;
+	position:absolute;
+	left:45px;
+	top:59px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.about_me { 
+	color:rgba(0, 0, 0, 1);
+	width:975px;
+	height:108px;
+	position:absolute;
+	left:45px;
+	top:132px;
+	font-family:Alegreya;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
